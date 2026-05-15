@@ -2,7 +2,7 @@
 ```
 git clone https://github.com/Dmitry8909/project.git
 
-cd social_network
+cd project
 
 docker compose up -d --build
 ```
